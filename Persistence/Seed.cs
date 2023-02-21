@@ -6,13 +6,14 @@ namespace Persistence
     {
         public static async Task SeedData(DataContext context)
         {
-            
-            System.Console.WriteLine("seed çalıştı");   
+            try
+            {
+            System.Console.WriteLine(PasswordHelper.HashPasword("asdasdasd", out byte[] salt2));
+            System.Console.WriteLine( salt2.Length);   
             if (context.Users.Any()) return;
             User testUser = new User();
             System.Console.WriteLine("seed çalıştı 2");  
-            try
-            {
+            
                 
             var users = new List<User>
             {
@@ -34,13 +35,10 @@ namespace Persistence
             // await context.Activities.AddRangeAsync(activities);
             // await context.Companies.AddRangeAsync(companies);
             
-            System.Console.WriteLine("seed çalıştı 3"); 
             await context.Users.AddRangeAsync(users);
             
-            System.Console.WriteLine("seed çalıştı 4"); 
             await context.SaveChangesAsync();
             
-            System.Console.WriteLine("seed çalıştı 5");
              }
             catch (System.Exception ex)
             {

@@ -5,8 +5,8 @@ namespace Domain
 {
     public static class PasswordHelper
     {
-        const int keySize = 1;
-        const int iterations = 1;
+        const int keySize = 64;
+        const int iterations = 350000;
         static HashAlgorithmName hashAlgorithm = HashAlgorithmName.SHA512;
         public static string HashPasword(string password, out byte[] salt)
         {
