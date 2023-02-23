@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kaan\\OneDrive\\Masaüstü\\CurriculumVitae\\API2\\Persistence\\Persistence.csproj": {}
+    "c:\\Users\\Kaan\\OneDrive\\Masaüstü\\CurriculumVitae\\API\\CurriculumVitaeAPI\\Persistence\\Persistence.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kaan\\OneDrive\\Masaüstü\\CurriculumVitae\\API2\\Domain\\Domain.csproj": {
+    "C:\\Users\\Kaan\\OneDrive\\Masaüstü\\CurriculumVitae\\API\\CurriculumVitaeAPI\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kaan\\OneDrive\\Masaüstü\\CurriculumVitae\\API2\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Kaan\\OneDrive\\Masaüstü\\CurriculumVitae\\API\\CurriculumVitaeAPI\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Kaan\\OneDrive\\Masaüstü\\CurriculumVitae\\API2\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\Kaan\\OneDrive\\Masaüstü\\CurriculumVitae\\API\\CurriculumVitaeAPI\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Kaan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kaan\\OneDrive\\Masaüstü\\CurriculumVitae\\API2\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\Kaan\\OneDrive\\Masaüstü\\CurriculumVitae\\API\\CurriculumVitaeAPI\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kaan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -43,6 +43,10 @@
             "Microsoft.AspNetCore.Cryptography.KeyDerivation": {
               "target": "Package",
               "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.3, )"
             }
           },
           "imports": [
@@ -65,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\Kaan\\OneDrive\\Masaüstü\\CurriculumVitae\\API2\\Persistence\\Persistence.csproj": {
+    "c:\\Users\\Kaan\\OneDrive\\Masaüstü\\CurriculumVitae\\API\\CurriculumVitaeAPI\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kaan\\OneDrive\\Masaüstü\\CurriculumVitae\\API2\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "c:\\Users\\Kaan\\OneDrive\\Masaüstü\\CurriculumVitae\\API\\CurriculumVitaeAPI\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Users\\Kaan\\OneDrive\\Masaüstü\\CurriculumVitae\\API2\\Persistence\\Persistence.csproj",
+        "projectPath": "c:\\Users\\Kaan\\OneDrive\\Masaüstü\\CurriculumVitae\\API\\CurriculumVitaeAPI\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\Kaan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kaan\\OneDrive\\Masaüstü\\CurriculumVitae\\API2\\Persistence\\obj\\",
+        "outputPath": "c:\\Users\\Kaan\\OneDrive\\Masaüstü\\CurriculumVitae\\API\\CurriculumVitaeAPI\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kaan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -89,8 +93,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Kaan\\OneDrive\\Masaüstü\\CurriculumVitae\\API2\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Kaan\\OneDrive\\Masaüstü\\CurriculumVitae\\API2\\Domain\\Domain.csproj"
+              "C:\\Users\\Kaan\\OneDrive\\Masaüstü\\CurriculumVitae\\API\\CurriculumVitaeAPI\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Kaan\\OneDrive\\Masaüstü\\CurriculumVitae\\API\\CurriculumVitaeAPI\\Domain\\Domain.csproj"
               }
             }
           }
@@ -107,7 +111,7 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[7.0.0, )"
+              "version": "[7.0.3, )"
             }
           },
           "imports": [

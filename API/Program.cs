@@ -1,3 +1,4 @@
+using MediatR;
 using Microsoft.EntityFrameworkCore;
 using Persistence;
 
@@ -13,6 +14,15 @@ builder.Services.AddDbContext<DataContext>(opt =>
 {
     opt.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
 });
+builder.Services.AddCors(opt =>
+    {
+        opt.AddPolicy("CorsPolicy", policy =>
+        {
+            policy.AllowAnyMethod().AllowAnyHeader().WithOrigins("http://localhost:3000");
+        });
+    }
+);
+builder.Services.AddMediatR(typeof(List.Handler));
 
 var app = builder.Build();
 
@@ -38,7 +48,6 @@ try
 }
 catch (Exception ex)
 {
-    Console.WriteLine(ex +  "An error occured during migration");
     var logger = services.GetRequiredService<ILogger<Program>>();
     logger.LogError(ex, "An error occured during migration");
 }
