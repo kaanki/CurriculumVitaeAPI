@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\Kaan\\OneDrive\\Masaüstü\\CurriculumVitae\\API\\CurriculumVitaeAPI\\api\\API.csproj": {}
   },
   "projects": {
@@ -12,9 +13,26 @@
         "projectPath": "C:\\Users\\Kaan\\OneDrive\\Masaüstü\\CurriculumVitae\\API\\CurriculumVitaeAPI\\api\\API.csproj",
         "packagesPath": "C:\\Users\\Kaan\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Kaan\\OneDrive\\Masaüstü\\CurriculumVitae\\API\\CurriculumVitaeAPI\\api\\obj\\",
+=======
+    "C:\\Users\\90545\\Desktop\\CurriculumVitaeAPI\\CurriculumVitaeAPI\\API\\API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\90545\\Desktop\\CurriculumVitaeAPI\\CurriculumVitaeAPI\\API\\API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\90545\\Desktop\\CurriculumVitaeAPI\\CurriculumVitaeAPI\\API\\API.csproj",
+        "projectName": "API",
+        "projectPath": "C:\\Users\\90545\\Desktop\\CurriculumVitaeAPI\\CurriculumVitaeAPI\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\90545\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\90545\\Desktop\\CurriculumVitaeAPI\\CurriculumVitaeAPI\\API\\obj\\",
+>>>>>>> 768ea8ce37609cda75a9bcbad00d81295e629d90
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Kaan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\90545\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +46,13 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
+<<<<<<< HEAD
               "C:\\Users\\Kaan\\OneDrive\\Masaüstü\\CurriculumVitae\\API\\CurriculumVitaeAPI\\Application\\Application.csproj": {
                 "projectPath": "C:\\Users\\Kaan\\OneDrive\\Masaüstü\\CurriculumVitae\\API\\CurriculumVitaeAPI\\Application\\Application.csproj"
+=======
+              "C:\\Users\\90545\\Desktop\\CurriculumVitaeAPI\\CurriculumVitaeAPI\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\90545\\Desktop\\CurriculumVitaeAPI\\CurriculumVitaeAPI\\Application\\Application.csproj"
+>>>>>>> 768ea8ce37609cda75a9bcbad00d81295e629d90
               }
             }
           }
@@ -82,10 +105,11 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     },
+<<<<<<< HEAD
     "C:\\Users\\Kaan\\OneDrive\\Masaüstü\\CurriculumVitae\\API\\CurriculumVitaeAPI\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -94,9 +118,23 @@
         "projectPath": "C:\\Users\\Kaan\\OneDrive\\Masaüstü\\CurriculumVitae\\API\\CurriculumVitaeAPI\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\Kaan\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Kaan\\OneDrive\\Masaüstü\\CurriculumVitae\\API\\CurriculumVitaeAPI\\Application\\obj\\",
+=======
+    "C:\\Users\\90545\\Desktop\\CurriculumVitaeAPI\\CurriculumVitaeAPI\\Application\\Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\90545\\Desktop\\CurriculumVitaeAPI\\CurriculumVitaeAPI\\Application\\Application.csproj",
+        "projectName": "Application",
+        "projectPath": "C:\\Users\\90545\\Desktop\\CurriculumVitaeAPI\\CurriculumVitaeAPI\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\90545\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\90545\\Desktop\\CurriculumVitaeAPI\\CurriculumVitaeAPI\\Application\\obj\\",
+>>>>>>> 768ea8ce37609cda75a9bcbad00d81295e629d90
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Kaan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\90545\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -110,11 +148,19 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
+<<<<<<< HEAD
               "C:\\Users\\Kaan\\OneDrive\\Masaüstü\\CurriculumVitae\\API\\CurriculumVitaeAPI\\Domain\\Domain.csproj": {
                 "projectPath": "C:\\Users\\Kaan\\OneDrive\\Masaüstü\\CurriculumVitae\\API\\CurriculumVitaeAPI\\Domain\\Domain.csproj"
               },
               "c:\\Users\\Kaan\\OneDrive\\Masaüstü\\CurriculumVitae\\API\\CurriculumVitaeAPI\\Persistence\\Persistence.csproj": {
                 "projectPath": "c:\\Users\\Kaan\\OneDrive\\Masaüstü\\CurriculumVitae\\API\\CurriculumVitaeAPI\\Persistence\\Persistence.csproj"
+=======
+              "C:\\Users\\90545\\Desktop\\CurriculumVitaeAPI\\CurriculumVitaeAPI\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\90545\\Desktop\\CurriculumVitaeAPI\\CurriculumVitaeAPI\\Domain\\Domain.csproj"
+              },
+              "C:\\Users\\90545\\Desktop\\CurriculumVitaeAPI\\CurriculumVitaeAPI\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\Users\\90545\\Desktop\\CurriculumVitaeAPI\\CurriculumVitaeAPI\\Persistence\\Persistence.csproj"
+>>>>>>> 768ea8ce37609cda75a9bcbad00d81295e629d90
               }
             }
           }
@@ -154,10 +200,11 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     },
+<<<<<<< HEAD
     "C:\\Users\\Kaan\\OneDrive\\Masaüstü\\CurriculumVitae\\API\\CurriculumVitaeAPI\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -166,9 +213,23 @@
         "projectPath": "C:\\Users\\Kaan\\OneDrive\\Masaüstü\\CurriculumVitae\\API\\CurriculumVitaeAPI\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Kaan\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Kaan\\OneDrive\\Masaüstü\\CurriculumVitae\\API\\CurriculumVitaeAPI\\Domain\\obj\\",
+=======
+    "C:\\Users\\90545\\Desktop\\CurriculumVitaeAPI\\CurriculumVitaeAPI\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\90545\\Desktop\\CurriculumVitaeAPI\\CurriculumVitaeAPI\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "C:\\Users\\90545\\Desktop\\CurriculumVitaeAPI\\CurriculumVitaeAPI\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\90545\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\90545\\Desktop\\CurriculumVitaeAPI\\CurriculumVitaeAPI\\Domain\\obj\\",
+>>>>>>> 768ea8ce37609cda75a9bcbad00d81295e629d90
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Kaan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\90545\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -219,10 +280,11 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     },
+<<<<<<< HEAD
     "c:\\Users\\Kaan\\OneDrive\\Masaüstü\\CurriculumVitae\\API\\CurriculumVitaeAPI\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -231,9 +293,23 @@
         "projectPath": "c:\\Users\\Kaan\\OneDrive\\Masaüstü\\CurriculumVitae\\API\\CurriculumVitaeAPI\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\Kaan\\.nuget\\packages\\",
         "outputPath": "c:\\Users\\Kaan\\OneDrive\\Masaüstü\\CurriculumVitae\\API\\CurriculumVitaeAPI\\Persistence\\obj\\",
+=======
+    "C:\\Users\\90545\\Desktop\\CurriculumVitaeAPI\\CurriculumVitaeAPI\\Persistence\\Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\90545\\Desktop\\CurriculumVitaeAPI\\CurriculumVitaeAPI\\Persistence\\Persistence.csproj",
+        "projectName": "Persistence",
+        "projectPath": "C:\\Users\\90545\\Desktop\\CurriculumVitaeAPI\\CurriculumVitaeAPI\\Persistence\\Persistence.csproj",
+        "packagesPath": "C:\\Users\\90545\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\90545\\Desktop\\CurriculumVitaeAPI\\CurriculumVitaeAPI\\Persistence\\obj\\",
+>>>>>>> 768ea8ce37609cda75a9bcbad00d81295e629d90
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Kaan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\90545\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -247,8 +323,13 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
+<<<<<<< HEAD
               "C:\\Users\\Kaan\\OneDrive\\Masaüstü\\CurriculumVitae\\API\\CurriculumVitaeAPI\\Domain\\Domain.csproj": {
                 "projectPath": "C:\\Users\\Kaan\\OneDrive\\Masaüstü\\CurriculumVitae\\API\\CurriculumVitaeAPI\\Domain\\Domain.csproj"
+=======
+              "C:\\Users\\90545\\Desktop\\CurriculumVitaeAPI\\CurriculumVitaeAPI\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\90545\\Desktop\\CurriculumVitaeAPI\\CurriculumVitaeAPI\\Domain\\Domain.csproj"
+>>>>>>> 768ea8ce37609cda75a9bcbad00d81295e629d90
               }
             }
           }
@@ -284,7 +365,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

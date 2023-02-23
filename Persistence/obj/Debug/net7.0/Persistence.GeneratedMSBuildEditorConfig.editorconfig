@@ -8,4 +8,8 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Persistence
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\Kaan\OneDrive\Masaüstü\CurriculumVitae\API\CurriculumVitaeAPI\Persistence\
+=======
+build_property.ProjectDir = C:\Users\90545\Desktop\CurriculumVitaeAPI\CurriculumVitaeAPI\Persistence\
+>>>>>>> 768ea8ce37609cda75a9bcbad00d81295e629d90
