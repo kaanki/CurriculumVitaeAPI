@@ -1,26 +1,30 @@
 using Domain;
 using MediatR;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Logging;
 using Persistence;
 
-public class List
+namespace Application.Users
 {
-    public class Query : IRequest<List<User>> { };
-
-    public class Handler : IRequestHandler<Query, List<User>>
+    public class List
     {
-        private readonly DataContext _context;
+        public class Query : IRequest<List<User>> { };
 
-        public Handler(DataContext context)
+        public class Handler : IRequestHandler<Query, List<User>>
         {
-            _context = context;
-        }
+            private readonly DataContext _context;
 
-        public DataContext Context { get; }
+            public Handler(DataContext context)
+            {
+                _context = context;
+            }
 
-        public async Task<List<User>> Handle(Query request, CancellationToken cancellationToken)
-        {
-            return await _context.Users.ToListAsync();
+            public DataContext Context { get; }
+
+            public async Task<List<User>> Handle(Query request, CancellationToken cancellationToken)
+            {
+                return await _context.Users.ToListAsync();
+            }
         }
     }
 }

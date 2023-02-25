@@ -250,3 +250,5 @@ C:\Users\90545\Desktop\CurriculumVitaeAPI\CurriculumVitaeAPI\API\obj\Debug\net7.
 C:\Users\90545\Desktop\CurriculumVitaeAPI\CurriculumVitaeAPI\API\obj\Debug\net7.0\API.genruntimeconfig.cache
 C:\Users\90545\Desktop\CurriculumVitaeAPI\CurriculumVitaeAPI\API\obj\Debug\net7.0\ref\API.dll
 >>>>>>> 768ea8ce37609cda75a9bcbad00d81295e629d90
+C:\Users\Kaan\OneDrive\Masaüstü\CurriculumVitae\API\CurriculumVitaeAPI\API\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Kaan\OneDrive\Masaüstü\CurriculumVitae\API\CurriculumVitaeAPI\API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

@@ -2,25 +2,28 @@ using Domain;
 using MediatR;
 using Persistence;
 
-public class Details
+namespace Application.Users
 {
-    public class Query : IRequest<User>
+    public class Details
     {
-        public long Id { get; set; }
-    };
-
-    public class Handler : IRequestHandler<Query, User>
-    {
-        private readonly DataContext _context;
-
-        public Handler(DataContext context)
+        public class Query : IRequest<User>
         {
-            _context = context;
-        }
+            public long Id { get; set; }
+        };
 
-        public async Task<User> Handle(Query request, CancellationToken cancellationToken)
+        public class Handler : IRequestHandler<Query, User>
         {
-            return await _context.Users.FindAsync(request.Id);
+            private readonly DataContext _context;
+
+            public Handler(DataContext context)
+            {
+                _context = context;
+            }
+
+            public async Task<User> Handle(Query request, CancellationToken cancellationToken)
+            {
+                return await _context.Users.FindAsync(request.Id);
+            }
         }
     }
 }
