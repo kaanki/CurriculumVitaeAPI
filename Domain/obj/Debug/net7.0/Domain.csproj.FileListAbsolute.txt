@@ -11,18 +11,6 @@ C:\Users\Kaan\OneDrive\Masaüstü\CurriculumVitae\API2\Domain\obj\Debug\net7.0\r
 C:\Users\Kaan\OneDrive\Masaüstü\CurriculumVitae\API2\Domain\obj\Debug\net7.0\Domain.pdb
 C:\Users\Kaan\OneDrive\Masaüstü\CurriculumVitae\API2\Domain\obj\Debug\net7.0\ref\Domain.dll
 <<<<<<< HEAD
-C:\Users\Kaan\OneDrive\Masaüstü\CurriculumVitae\API\CurriculumVitaeAPI\Domain\bin\Debug\net7.0\Domain.deps.json
-C:\Users\Kaan\OneDrive\Masaüstü\CurriculumVitae\API\CurriculumVitaeAPI\Domain\bin\Debug\net7.0\Domain.dll
-C:\Users\Kaan\OneDrive\Masaüstü\CurriculumVitae\API\CurriculumVitaeAPI\Domain\bin\Debug\net7.0\Domain.pdb
-C:\Users\Kaan\OneDrive\Masaüstü\CurriculumVitae\API\CurriculumVitaeAPI\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
-C:\Users\Kaan\OneDrive\Masaüstü\CurriculumVitae\API\CurriculumVitaeAPI\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Kaan\OneDrive\Masaüstü\CurriculumVitae\API\CurriculumVitaeAPI\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
-C:\Users\Kaan\OneDrive\Masaüstü\CurriculumVitae\API\CurriculumVitaeAPI\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
-C:\Users\Kaan\OneDrive\Masaüstü\CurriculumVitae\API\CurriculumVitaeAPI\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
-C:\Users\Kaan\OneDrive\Masaüstü\CurriculumVitae\API\CurriculumVitaeAPI\Domain\obj\Debug\net7.0\Domain.dll
-C:\Users\Kaan\OneDrive\Masaüstü\CurriculumVitae\API\CurriculumVitaeAPI\Domain\obj\Debug\net7.0\refint\Domain.dll
-C:\Users\Kaan\OneDrive\Masaüstü\CurriculumVitae\API\CurriculumVitaeAPI\Domain\obj\Debug\net7.0\Domain.pdb
-C:\Users\Kaan\OneDrive\Masaüstü\CurriculumVitae\API\CurriculumVitaeAPI\Domain\obj\Debug\net7.0\ref\Domain.dll
 =======
 C:\Users\90545\Desktop\CurriculumVitaeAPI\CurriculumVitaeAPI\Domain\bin\Debug\net7.0\Domain.deps.json
 C:\Users\90545\Desktop\CurriculumVitaeAPI\CurriculumVitaeAPI\Domain\bin\Debug\net7.0\Domain.dll
@@ -37,3 +25,15 @@ C:\Users\90545\Desktop\CurriculumVitaeAPI\CurriculumVitaeAPI\Domain\obj\Debug\ne
 C:\Users\90545\Desktop\CurriculumVitaeAPI\CurriculumVitaeAPI\Domain\obj\Debug\net7.0\Domain.pdb
 C:\Users\90545\Desktop\CurriculumVitaeAPI\CurriculumVitaeAPI\Domain\obj\Debug\net7.0\ref\Domain.dll
 >>>>>>> 768ea8ce37609cda75a9bcbad00d81295e629d90
+C:\Users\Kaan\OneDrive\Masaüstü\CurriculumVitae\API\CurriculumVitaeAPI\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Users\Kaan\OneDrive\Masaüstü\CurriculumVitae\API\CurriculumVitaeAPI\Domain\bin\Debug\net7.0\Domain.dll
+C:\Users\Kaan\OneDrive\Masaüstü\CurriculumVitae\API\CurriculumVitaeAPI\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Users\Kaan\OneDrive\Masaüstü\CurriculumVitae\API\CurriculumVitaeAPI\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Kaan\OneDrive\Masaüstü\CurriculumVitae\API\CurriculumVitaeAPI\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaan\OneDrive\Masaüstü\CurriculumVitae\API\CurriculumVitaeAPI\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Kaan\OneDrive\Masaüstü\CurriculumVitae\API\CurriculumVitaeAPI\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\Kaan\OneDrive\Masaüstü\CurriculumVitae\API\CurriculumVitaeAPI\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Kaan\OneDrive\Masaüstü\CurriculumVitae\API\CurriculumVitaeAPI\Domain\obj\Debug\net7.0\Domain.dll
+C:\Users\Kaan\OneDrive\Masaüstü\CurriculumVitae\API\CurriculumVitaeAPI\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Users\Kaan\OneDrive\Masaüstü\CurriculumVitae\API\CurriculumVitaeAPI\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Users\Kaan\OneDrive\Masaüstü\CurriculumVitae\API\CurriculumVitaeAPI\Domain\obj\Debug\net7.0\ref\Domain.dll

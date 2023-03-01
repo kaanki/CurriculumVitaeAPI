@@ -14,21 +14,6 @@ C:\Users\Kaan\OneDrive\Masaüstü\CurriculumVitae\API2\Persistence\obj\Debug\net
 C:\Users\Kaan\OneDrive\Masaüstü\CurriculumVitae\API2\Persistence\obj\Debug\net7.0\Persistence.pdb
 C:\Users\Kaan\OneDrive\Masaüstü\CurriculumVitae\API2\Persistence\obj\Debug\net7.0\ref\Persistence.dll
 <<<<<<< HEAD
-C:\Users\Kaan\OneDrive\Masaüstü\CurriculumVitae\API\CurriculumVitaeAPI\Persistence\bin\Debug\net7.0\Persistence.deps.json
-C:\Users\Kaan\OneDrive\Masaüstü\CurriculumVitae\API\CurriculumVitaeAPI\Persistence\bin\Debug\net7.0\Persistence.dll
-C:\Users\Kaan\OneDrive\Masaüstü\CurriculumVitae\API\CurriculumVitaeAPI\Persistence\bin\Debug\net7.0\Persistence.pdb
-C:\Users\Kaan\OneDrive\Masaüstü\CurriculumVitae\API\CurriculumVitaeAPI\Persistence\bin\Debug\net7.0\Domain.dll
-C:\Users\Kaan\OneDrive\Masaüstü\CurriculumVitae\API\CurriculumVitaeAPI\Persistence\bin\Debug\net7.0\Domain.pdb
-C:\Users\Kaan\OneDrive\Masaüstü\CurriculumVitae\API\CurriculumVitaeAPI\Persistence\obj\Debug\net7.0\Persistence.csproj.AssemblyReference.cache
-C:\Users\Kaan\OneDrive\Masaüstü\CurriculumVitae\API\CurriculumVitaeAPI\Persistence\obj\Debug\net7.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Kaan\OneDrive\Masaüstü\CurriculumVitae\API\CurriculumVitaeAPI\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfoInputs.cache
-C:\Users\Kaan\OneDrive\Masaüstü\CurriculumVitae\API\CurriculumVitaeAPI\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfo.cs
-C:\Users\Kaan\OneDrive\Masaüstü\CurriculumVitae\API\CurriculumVitaeAPI\Persistence\obj\Debug\net7.0\Persistence.csproj.CoreCompileInputs.cache
-C:\Users\Kaan\OneDrive\Masaüstü\CurriculumVitae\API\CurriculumVitaeAPI\Persistence\obj\Debug\net7.0\Persistence.csproj.CopyComplete
-C:\Users\Kaan\OneDrive\Masaüstü\CurriculumVitae\API\CurriculumVitaeAPI\Persistence\obj\Debug\net7.0\Persistence.dll
-C:\Users\Kaan\OneDrive\Masaüstü\CurriculumVitae\API\CurriculumVitaeAPI\Persistence\obj\Debug\net7.0\refint\Persistence.dll
-C:\Users\Kaan\OneDrive\Masaüstü\CurriculumVitae\API\CurriculumVitaeAPI\Persistence\obj\Debug\net7.0\Persistence.pdb
-C:\Users\Kaan\OneDrive\Masaüstü\CurriculumVitae\API\CurriculumVitaeAPI\Persistence\obj\Debug\net7.0\ref\Persistence.dll
 =======
 C:\Users\90545\Desktop\CurriculumVitaeAPI\CurriculumVitaeAPI\Persistence\bin\Debug\net7.0\Persistence.deps.json
 C:\Users\90545\Desktop\CurriculumVitaeAPI\CurriculumVitaeAPI\Persistence\bin\Debug\net7.0\Persistence.dll
@@ -46,3 +31,18 @@ C:\Users\90545\Desktop\CurriculumVitaeAPI\CurriculumVitaeAPI\Persistence\obj\Deb
 C:\Users\90545\Desktop\CurriculumVitaeAPI\CurriculumVitaeAPI\Persistence\obj\Debug\net7.0\Persistence.pdb
 C:\Users\90545\Desktop\CurriculumVitaeAPI\CurriculumVitaeAPI\Persistence\obj\Debug\net7.0\ref\Persistence.dll
 >>>>>>> 768ea8ce37609cda75a9bcbad00d81295e629d90
+C:\Users\Kaan\OneDrive\Masaüstü\CurriculumVitae\API\CurriculumVitaeAPI\Persistence\bin\Debug\net7.0\Persistence.deps.json
+C:\Users\Kaan\OneDrive\Masaüstü\CurriculumVitae\API\CurriculumVitaeAPI\Persistence\bin\Debug\net7.0\Persistence.dll
+C:\Users\Kaan\OneDrive\Masaüstü\CurriculumVitae\API\CurriculumVitaeAPI\Persistence\bin\Debug\net7.0\Persistence.pdb
+C:\Users\Kaan\OneDrive\Masaüstü\CurriculumVitae\API\CurriculumVitaeAPI\Persistence\bin\Debug\net7.0\Domain.dll
+C:\Users\Kaan\OneDrive\Masaüstü\CurriculumVitae\API\CurriculumVitaeAPI\Persistence\bin\Debug\net7.0\Domain.pdb
+C:\Users\Kaan\OneDrive\Masaüstü\CurriculumVitae\API\CurriculumVitaeAPI\Persistence\obj\Debug\net7.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\Kaan\OneDrive\Masaüstü\CurriculumVitae\API\CurriculumVitaeAPI\Persistence\obj\Debug\net7.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaan\OneDrive\Masaüstü\CurriculumVitae\API\CurriculumVitaeAPI\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\Kaan\OneDrive\Masaüstü\CurriculumVitae\API\CurriculumVitaeAPI\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfo.cs
+C:\Users\Kaan\OneDrive\Masaüstü\CurriculumVitae\API\CurriculumVitaeAPI\Persistence\obj\Debug\net7.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Kaan\OneDrive\Masaüstü\CurriculumVitae\API\CurriculumVitaeAPI\Persistence\obj\Debug\net7.0\Persistence.csproj.CopyComplete
+C:\Users\Kaan\OneDrive\Masaüstü\CurriculumVitae\API\CurriculumVitaeAPI\Persistence\obj\Debug\net7.0\Persistence.dll
+C:\Users\Kaan\OneDrive\Masaüstü\CurriculumVitae\API\CurriculumVitaeAPI\Persistence\obj\Debug\net7.0\refint\Persistence.dll
+C:\Users\Kaan\OneDrive\Masaüstü\CurriculumVitae\API\CurriculumVitaeAPI\Persistence\obj\Debug\net7.0\Persistence.pdb
+C:\Users\Kaan\OneDrive\Masaüstü\CurriculumVitae\API\CurriculumVitaeAPI\Persistence\obj\Debug\net7.0\ref\Persistence.dll
