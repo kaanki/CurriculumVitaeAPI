@@ -7,7 +7,10 @@ import NavBar from './navbar';
 import UserDashboard from '../../features/users/dashboard/UserDashBoard';
 
 function App() {
+
   const [users, setUsers] = useState<User[]>([]);
+  const [selectedUser, setSelectedUser] = useState<User | undefined>(undefined);
+  const [editMode, setEditMode] = useState(false);
 
   useEffect(() => {
     axios.get<User[]>('http://localhost:5000/api/users')
@@ -17,11 +20,48 @@ function App() {
       })
   }, [])
 
+  function handleSelectUser(id: number) {
+    setSelectedUser(users.find(x => x.id === id));
+  }
+
+  function handleCancelSelectUser() {
+    setSelectedUser(undefined);
+  }
+
+  function handleFormOpen(id?: number) {
+    id ? handleSelectUser(id) : handleCancelSelectUser();
+    setEditMode(true);
+  }
+
+  function handleFormClose() {
+    setEditMode(false);
+  }
+
+  function handleCreateOrEditUser(user: User) {
+    debugger;
+    if (user.id && user.id !== -1) {
+      setUsers([...users.filter(x => x.id !== user.id), user])
+    } else {
+      user.id = Math.max(...users.map(o => o.id)) + 1;
+      setUsers([...users, user]);
+    }
+    setEditMode(false);
+    setSelectedUser(user);
+  }
+
   return (
     < Fragment>
-      <NavBar />
+      <NavBar openForm={handleFormOpen} />
       <Container style={{ marginTop: '7em' }}>
-        <UserDashboard users={users} />
+        <UserDashboard users={users}
+          selectedUser={selectedUser}
+          selectUser={handleSelectUser}
+          cancelSelectUser={handleCancelSelectUser}
+          editMode={editMode}
+          OpenForm={handleFormOpen}
+          CloseForm={handleFormClose}
+          createOrEdit={handleCreateOrEditUser}
+        />
       </Container>
     </Fragment>
   );
